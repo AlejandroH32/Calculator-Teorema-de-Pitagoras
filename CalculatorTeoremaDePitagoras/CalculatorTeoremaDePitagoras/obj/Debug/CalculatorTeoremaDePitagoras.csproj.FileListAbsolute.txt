@@ -1,0 +1,7 @@
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\bin\Debug\CalculatorTeoremaDePitagoras.exe.config
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\bin\Debug\CalculatorTeoremaDePitagoras.exe
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\bin\Debug\CalculatorTeoremaDePitagoras.pdb
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\obj\Debug\CalculatorTeoremaDePitagoras.csproj.AssemblyReference.cache
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\obj\Debug\CalculatorTeoremaDePitagoras.csproj.CoreCompileInputs.cache
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\obj\Debug\CalculatorTeoremaDePitagoras.exe
+C:\Users\khern\OneDrive\Escritorio\CursosC#EdTeam\CalculatorTeoremaDePitagoras\CalculatorTeoremaDePitagoras\obj\Debug\CalculatorTeoremaDePitagoras.pdb
